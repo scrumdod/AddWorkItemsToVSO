@@ -1,0 +1,13 @@
+{
+  "name": "AddWorkItemsToTFS",
+  "version": "0.0.0",
+  "description": "AddWorkItemsToTFS",
+  "main": "app.js",
+  "author": {
+    "name": "rob",
+    "email": ""
+  },
+  "dependencies": {
+    "fast-csv": "^0.5.3"
+  }
+}

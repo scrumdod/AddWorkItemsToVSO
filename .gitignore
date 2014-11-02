@@ -2,6 +2,7 @@
 logs
 *.log
 *.suo
+*.dat
 
 # Runtime data
 pids

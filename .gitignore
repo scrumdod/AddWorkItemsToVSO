@@ -2,6 +2,7 @@
 logs
 *.log
 *.suo
+*.v12.suo
 *.dat
 
 # Runtime data

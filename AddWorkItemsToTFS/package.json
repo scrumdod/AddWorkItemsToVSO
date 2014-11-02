@@ -1,5 +1,5 @@
 {
-  "name": "AddWorkItemsToTFS",
+  "name": "add-workitems-to-tfs",
   "version": "0.0.1",
   "description": "AddWorkItemsToTFS",
   "main": "app.js",

@@ -8,6 +8,8 @@
     "email": ""
   },
   "dependencies": {
-    "fast-csv": "^0.5.3"
+    "fast-csv": "^0.5.3",
+    "util": "^0.10.3",
+    "vso-client": "^0.1.14"
   }
 }

@@ -4,6 +4,7 @@ logs
 *.suo
 *.v12.suo
 *.dat
+*.dat.tmp
 
 # Runtime data
 pids

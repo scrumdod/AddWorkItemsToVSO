@@ -1,11 +1,12 @@
 {
   "name": "AddWorkItemsToTFS",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "AddWorkItemsToTFS",
   "main": "app.js",
+  "bin": "app.js",
   "author": {
-    "name": "rob",
-    "email": ""
+    "name": "rob maher",
+    "email": "scrumdod@gmail.com"
   },
   "dependencies": {
     "fast-csv": "^0.5.3",

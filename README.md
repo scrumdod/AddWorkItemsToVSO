@@ -26,14 +26,18 @@ Project - The name of the Team Project
 
 So to invoke the script it might look like
 
-+ **node app.js "c:\users\rob\mytest.csv", "robmaher", "robmaher", "robpwd", "myProjectName"
+```
+node.exe app.js "c:\users\rob\mytest.csv", "robmaher", "robmaher", "robpwd", "myProjectName"
+```
 
 **The CSV File
 The csv file has a header row and then multiple data rows.  Only a , is supported as the delimeter.
 
 An example might be
 
-+ **"Type", "Title","Description","AreaPath"
+```
+"Type", "Title","Description","AreaPath"
 "UserStory","First WIT", "Great Description
 that has line breaks", "agiletemplate"
+```
 "Bug","Second WIT", "Another great description", "agiletemplate"

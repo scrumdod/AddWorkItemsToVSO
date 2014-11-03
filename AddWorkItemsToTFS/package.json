@@ -1,11 +1,14 @@
 {
   "name": "add-workitems-to-tfs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "AddWorkItemsToTFS",
   "main": "app.js", "author": {
     "name": "rob maher",
     "email": "scrumdod@gmail.com"
   },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/scrumdod/AddWorkItemsToVSO"
   "dependencies": {
     "fast-csv": "^0.5.3",
     "util": "^0.10.3",

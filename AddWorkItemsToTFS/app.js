@@ -10,7 +10,7 @@ var accountBaseUrl, account, username, password, stream;
 
 var args = process.argv.slice(2);
 if (args.length != 5) {
-    console.log("A path to the csv file containing the work items must be provided as an argument");
+    console.log("All of the following parameters must be provided.  Path to Csv, VSO Account Name, User name, Password, Project Name");
     process.exit(1);
 }
 stream = fs.createReadStream(args[0]);

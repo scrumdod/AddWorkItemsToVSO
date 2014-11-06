@@ -38,5 +38,5 @@ An example might be
 "Type", "Title","Description","AreaPath"
 "UserStory","First WIT", "Great Description
 that has line breaks", "agiletemplate"
-```
 "Bug","Second WIT", "Another great description", "agiletemplate"
+```

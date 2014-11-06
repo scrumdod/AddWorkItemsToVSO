@@ -18,11 +18,11 @@ npm install add-workitems-to-tfs
 ### Arguments
 The following command line arguments must be passed.
 
-Path to the CSV file e.g. "c:\users\rob\mycsv.csv"
-Account - The name of the VSO Account e.g. robmaher.  This will be prepended to .visualstudio.com
-Username - The username to login with
-Password - The password to login with (Note these are the alternate credentials)
-Project - The name of the Team Project
++ Path to the CSV file e.g. "c:\users\rob\mycsv.csv"
++ Account - The name of the VSO Account e.g. robmaher.  This will be prepended to .visualstudio.com
++ Username - The username to login with
++ Password - The password to login with (Note these are the alternate credentials)
++ Project - The name of the Team Project
 
 So to invoke the script it might look like
 
